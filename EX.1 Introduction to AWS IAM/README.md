@@ -1,5 +1,8 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
+## Name: Rakesh K S
+## Reg No: 212224040264
+
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -28,14 +31,16 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1522" height="722" alt="image" src="https://github.com/user-attachments/assets/4012bfc8-7610-4792-b3a9-c33c4fe503c8" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/e257839a-bb66-4015-b843-7a7cab1622aa" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +48,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/ae501f7a-afa8-485b-88ee-f76df987b846" />
+
 
 
 ## Workflow
