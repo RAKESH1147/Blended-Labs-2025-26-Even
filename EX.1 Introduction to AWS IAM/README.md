@@ -1,7 +1,4 @@
-# Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-
-## Name: Rakesh K S
-## Reg No: 212224040264
+# Lab 1 - Introduction to AWS Identity and Access Management (IAM) 
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
@@ -72,6 +69,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Rakesh K S and (212224040264)
 **Course:** Introduction to Cloud Computing  
 
